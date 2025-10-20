@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hi, I'm Tristan </h1>
 
-🎓 I am a passionate **Mathematics & ML** student at **Mines Paris - PSL**. 
+🎓 I am a passionate **Mathematics & ML** student ** @ Mines Paris - PSL**. 
 
 Currently following the **MVA @ ENS Paris-Saclay** (Master 2 in AI and Mathematics) 
 
