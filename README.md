@@ -1,15 +1,15 @@
 <h1 align="center"> 👋 Hi, I'm Tristan </h1>
 
-🎓 I am a passionate **Mathematics & ML** student **@ Mines Paris - PSL**. 
+🎓 I am a passionate **Mathematics & ML** student **@ [Mines Paris - PSL](https://www.minesparis.psl.eu/en/home/)**. 
 
-Currently following the **MVA @ ENS Paris-Saclay** (Master 2 in AI and Mathematics) 
+Currently following the **[MVA @ ENS Paris-Saclay](https://www.master-mva.com)** (Master 2 in AI and Mathematics) 
 
 ---
 
 ## 🌟 Projects  
 
 ### 🧬 Gene Regulatory Network and Stochastic Modeling of Cell State Transitions (Private GitHub Repo to be published soon) 
-**Institution:** NYU Langone Health [Jane Skok lab](https://zapphosting.com/skoklab/our-lab) 
+**Institution:** NYU Langone Health @[Jane Skok lab](https://zapphosting.com/skoklab/our-lab) 
 **Duration:** February 2025 – August 2025  
 
 **Highlights:**  
