@@ -8,8 +8,8 @@ Currently following the **MVA @ ENS Paris-Saclay** (Master 2 in AI and Mathemati
 
 ## 🌟 Projects  
 
-### 🧬 Gene Regulatory Network and Stochastic Modeling of Cell State Transitions  
-**Institution:** NYU Langone Health  
+### 🧬 Gene Regulatory Network and Stochastic Modeling of Cell State Transitions (Private GitHub Repo to be published soon) 
+**Institution:** NYU Langone Health [Jane Skok lab](https://zapphosting.com/skoklab/our-lab) 
 **Duration:** February 2025 – August 2025  
 
 **Highlights:**  
@@ -20,8 +20,8 @@ Currently following the **MVA @ ENS Paris-Saclay** (Master 2 in AI and Mathemati
 
 ---
 
-### ⚡ Short-Term Active Power Loss Forecasting Algorithm for the Swiss High-Voltage Network  
-**Institution:** Swissgrid AG  
+### ⚡ Short-Term Active Power Loss Forecasting Algorithm for the Swiss High-Voltage Network (Private Company Repo) 
+**Institution:** [Swissgrid AG](https://www.swissgrid.ch/en/home.html)  
 **Duration:** August 2024 – January 2025  
 
 **Highlights:**  
@@ -31,12 +31,12 @@ Currently following the **MVA @ ENS Paris-Saclay** (Master 2 in AI and Mathemati
 
 ---
 
-### 🎨 Generative Models  
+### 🎨 [Generative Models](https://github.com/TristanNMon/Generative_Models)  
 **Independent Side Project** — Exploring and implementing core concepts behind modern generative models *(VAEs, GANs, Diffusion Models)*.  
 
 ---
 
-### 💬 Language Models (MVA Course)  
+### 💬 [Language Models](https://github.com/TristanNMon/Language_Models) (MVA Course)  
 Documenting and sharing my journey to understand how large language models work at a deeper, architectural level via the labs completed during the course.  
 
 ---
